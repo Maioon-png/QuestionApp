@@ -19,6 +19,11 @@
 		B4A8F5F925073386004CDA0B /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F5F825073386004CDA0B /* NextViewController.swift */; };
 		B4A8F5FB25087931004CDA0B /* ImagesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F5FA25087931004CDA0B /* ImagesModel.swift */; };
 		B4A8F5FD25087B1A004CDA0B /* ImagesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F5FC25087B1A004CDA0B /* ImagesList.swift */; };
+		B4A8F5FF2508962D004CDA0B /* SoundFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F5FE2508962D004CDA0B /* SoundFile.swift */; };
+		B4A8F60125089AE7004CDA0B /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F60025089AE7004CDA0B /* Animal.swift */; };
+		B4A8F60325089B26004CDA0B /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F60225089B26004CDA0B /* Human.swift */; };
+		B4A8F60525089F16004CDA0B /* WithoutMp3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F60425089F16004CDA0B /* WithoutMp3.swift */; };
+		B4A8F6072508A1C8004CDA0B /* ChangeColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A8F6062508A1C8004CDA0B /* ChangeColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +41,11 @@
 		B4A8F5F825073386004CDA0B /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 		B4A8F5FA25087931004CDA0B /* ImagesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesModel.swift; sourceTree = "<group>"; };
 		B4A8F5FC25087B1A004CDA0B /* ImagesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesList.swift; sourceTree = "<group>"; };
+		B4A8F5FE2508962D004CDA0B /* SoundFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundFile.swift; sourceTree = "<group>"; };
+		B4A8F60025089AE7004CDA0B /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		B4A8F60225089B26004CDA0B /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		B4A8F60425089F16004CDA0B /* WithoutMp3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithoutMp3.swift; sourceTree = "<group>"; };
+		B4A8F6062508A1C8004CDA0B /* ChangeColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +95,11 @@
 			children = (
 				B4A8F5FA25087931004CDA0B /* ImagesModel.swift */,
 				B4A8F5FC25087B1A004CDA0B /* ImagesList.swift */,
+				B4A8F5FE2508962D004CDA0B /* SoundFile.swift */,
+				B4A8F60025089AE7004CDA0B /* Animal.swift */,
+				B4A8F60225089B26004CDA0B /* Human.swift */,
+				B4A8F60425089F16004CDA0B /* WithoutMp3.swift */,
+				B4A8F6062508A1C8004CDA0B /* ChangeColor.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -184,7 +199,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4A8F5E0250730A7004CDA0B /* ViewController.swift in Sources */,
+				B4A8F6072508A1C8004CDA0B /* ChangeColor.swift in Sources */,
+				B4A8F60125089AE7004CDA0B /* Animal.swift in Sources */,
+				B4A8F5FF2508962D004CDA0B /* SoundFile.swift in Sources */,
 				B4A8F5FD25087B1A004CDA0B /* ImagesList.swift in Sources */,
+				B4A8F60325089B26004CDA0B /* Human.swift in Sources */,
+				B4A8F60525089F16004CDA0B /* WithoutMp3.swift in Sources */,
 				B4A8F5F925073386004CDA0B /* NextViewController.swift in Sources */,
 				B4A8F5DC250730A7004CDA0B /* AppDelegate.swift in Sources */,
 				B4A8F5DE250730A7004CDA0B /* SceneDelegate.swift in Sources */,
